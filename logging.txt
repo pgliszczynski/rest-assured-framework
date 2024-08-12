@@ -1,0 +1,1269 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/AddPlaceAPI?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/AddPlaceAPI?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=a991f1d37af76c6f3ea132bc21ac6b1d
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=a991f1d37af76c6f3ea132bc21ac6b1d
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=00bc4127a187cbcca7bb8242a703a81f
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=00bc4127a187cbcca7bb8242a703a81f
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=fcca51565fda2769a78577b5a3b43d59
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=fcca51565fda2769a78577b5a3b43d59
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=2fdb35025ec917c0fbd1857a395b4b28
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=2fdb35025ec917c0fbd1857a395b4b28
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "2fdb35025ec917c0fbd1857a395b4b28"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=ba6ca48d91fba901dd4e74b16f1a2aff
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=ba6ca48d91fba901dd4e74b16f1a2aff
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=f656f2b3cb3eca698b9f986f804bdecd
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=f656f2b3cb3eca698b9f986f804bdecd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "null"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "Shetty",
+    "address": "Asia",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=289660f759bbc0135fa60cd0e39bc7cd
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=289660f759bbc0135fa60cd0e39bc7cd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "289660f759bbc0135fa60cd0e39bc7cd"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=c4be3e8d9596c4694ff6eb07a16d73a9
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=c4be3e8d9596c4694ff6eb07a16d73a9
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=d9da73a304129b159dc3f05ba51015ce
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=d9da73a304129b159dc3f05ba51015ce
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "d9da73a304129b159dc3f05ba51015ce"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=b96ae7035478de97329c289d0772adaf
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=b96ae7035478de97329c289d0772adaf
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=8a04878bc136ef8f22c05257153ba888
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=8a04878bc136ef8f22c05257153ba888
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "8a04878bc136ef8f22c05257153ba888"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=1d73911e790b46c2900d586f8ce17a7c
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=1d73911e790b46c2900d586f8ce17a7c
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=3dcd87977427a10722d7fdf71ab84928
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=3dcd87977427a10722d7fdf71ab84928
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "3dcd87977427a10722d7fdf71ab84928"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "Shetty",
+    "address": "Asia",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=5472fae55974fe4a2fc53ff2102474cd
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=5472fae55974fe4a2fc53ff2102474cd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "5472fae55974fe4a2fc53ff2102474cd"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=92e4dcac1fd598e5b33b6b3f0d432ee1
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=92e4dcac1fd598e5b33b6b3f0d432ee1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=83771fae8b9c8a5ac72c5f09f8c32240
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=83771fae8b9c8a5ac72c5f09f8c32240
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "83771fae8b9c8a5ac72c5f09f8c32240"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=79e35e380901e360c51ae02d3e895a99
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=79e35e380901e360c51ae02d3e895a99
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=b200a47f95e79f54a1b21cd5b0a5c318
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=b200a47f95e79f54a1b21cd5b0a5c318
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "b200a47f95e79f54a1b21cd5b0a5c318"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=c3c7ba72bbc2eca967ae1d2eaf0bbfee
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=c3c7ba72bbc2eca967ae1d2eaf0bbfee
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=34f034fb6ee69bd4a16e6fb9264ddbfa
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=34f034fb6ee69bd4a16e6fb9264ddbfa
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "34f034fb6ee69bd4a16e6fb9264ddbfa"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "AAhouse",
+    "address": "World cross center",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "English",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=4b51589074a4f39498755f88e5148032
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=4b51589074a4f39498755f88e5148032
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -36.745,
+        "lng": 34.225
+    },
+    "accuracy": 50,
+    "name": "BBHouse",
+    "address": "Addres line 1",
+    "types": [
+        "cafe",
+        "place"
+    ],
+    "website": "https://google.com",
+    "language": "French",
+    "phone_number": "1112222333"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=bdd285227d2d5eba22bb4c999904b26e
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=bdd285227d2d5eba22bb4c999904b26e
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "bdd285227d2d5eba22bb4c999904b26e"
+}
