@@ -68,7 +68,7 @@
         <version>3.2.5</version>
         <configuration>
           <argLine>
-            -Dcucumber.plugin="html:${project.build.directory}/target/reports/cucumber-report.html"
+            -Dcucumber.plugin="html:${project.build.directory}/reports/cucumber-report.html","json:${project.build.directory}/reports/cucumber-report.json"
             -Dcucumber.publish.enabled=true
           </argLine>
           <properties>
